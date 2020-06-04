@@ -9,10 +9,16 @@ author
 
 **Setup**
 
+Commands used
+
 pip install scrapy
+
 scrapy startproject postscrape
+
 cd postscrape
+
 Create spiders/posts_spider.py
+
 scrapy crawl posts
 
 
