@@ -1,4 +1,4 @@
-In this project I make use of Python Scrapy and how to create a spider to crawl websites to scrape and structure data.
+In this project I make use of Python Scrapy and learn how to create a spider to crawl websites to scrape and structure data.
 
 Site scraped :https://blog.scrapinghub.com/ into posts.json
 
