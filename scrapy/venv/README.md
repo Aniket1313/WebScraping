@@ -21,7 +21,6 @@ Create spiders/posts_spider.py
 
 scrapy crawl posts
 
-
 **Script--filename :posts_spider** 
 path :postscrape/spiders/posts_spider.py
 
